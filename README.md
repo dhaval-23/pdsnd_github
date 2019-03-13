@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+2/12/2019.
 
 ### Project Title
-Replace the Project Title
+Github Project 
 
 ### Description
 Describe what your project is about and what it does
